@@ -12,3 +12,4 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 - `maker --dev`
 - `annotations`
 - `orm:^2`
+- `admin:^3`
