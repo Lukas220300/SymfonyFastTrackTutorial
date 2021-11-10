@@ -9,3 +9,4 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 - `profiler --dev`
 - `logger`
 - `debug --dev`
+- `maker --dev`
