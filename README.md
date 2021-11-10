@@ -10,3 +10,4 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 - `logger`
 - `debug --dev`
 - `maker --dev`
+- `annotations`
