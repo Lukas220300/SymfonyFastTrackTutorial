@@ -1,0 +1,23 @@
+name: SymfonyFastTrackTutorial
+recipe: lamp
+
+config:
+  webroot: public
+  xdebug: true
+  php: '8.0'
+  database: 'mariadb'
+
+services:
+  appserver:
+    build:
+      - echo "Installing Symfony CLI"
+      - wget https://get.symfony.com/cli/installer -O - | bash
+      - echo "Move Symfony binary"
+      - mv /var/www/.symfony/bin/symfony /usr/local/bin/symfony
+
+tooling:
+  symfony:
+    service: appserver
+  console:
+    service: appserver
+    cmd: php bin/console
