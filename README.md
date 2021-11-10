@@ -7,3 +7,5 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 
 # dependencies
 - `profiler --dev`
+- `logger`
+- `debug --dev`
