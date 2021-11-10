@@ -11,3 +11,4 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 - `debug --dev`
 - `maker --dev`
 - `annotations`
+- `orm:^2`
