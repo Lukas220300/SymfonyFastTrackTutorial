@@ -13,3 +13,4 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 - `annotations`
 - `orm:^2`
 - `admin:^3`
+- `twig`
