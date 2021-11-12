@@ -14,3 +14,4 @@ Pakete, die High-Level-Funktionen hinzufügen oder Integrationen mit Bibliotheke
 - `orm:^2`
 - `admin:^3`
 - `twig`
+- `twig/intl-extra:^3`
