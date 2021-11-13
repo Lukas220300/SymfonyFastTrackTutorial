@@ -16,6 +16,8 @@ services:
       - mv /var/www/.symfony/bin/symfony /usr/local/bin/symfony
   database:
     portforward: 3306
+  node:
+    type: node:14
 
 tooling:
   symfony:
@@ -23,3 +25,5 @@ tooling:
   console:
     service: appserver
     cmd: php bin/console
+  npm:
+    service: node

@@ -47,3 +47,4 @@ Das ``@ORM\PrePersist-Event`` wird ausgelöst, wenn das Objekt zum ersten Mal in
 - `mime`
 - `security`
 - `phpunit --dev`
+- `encore`
