@@ -44,3 +44,4 @@ Das ``@ORM\PrePersist-Event`` wird ausgelöst, wenn das Objekt zum ersten Mal in
 - `twig/intl-extra:^3`
 - `validator`
 - `string`
+- `mime`
