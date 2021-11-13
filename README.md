@@ -47,4 +47,12 @@ Das ``@ORM\PrePersist-Event`` wird ausgelöst, wenn das Objekt zum ersten Mal in
 - `mime`
 - `security`
 - `phpunit --dev`
-- `encore`
+- `encore` <br>
+    node packages:
+    - `node-sass`
+    - `sass-loader`
+    - `bootstrap@4`
+    - `jquery`
+    - `popper.js`
+    - `bs-custom-file-input`
+    
