@@ -55,4 +55,4 @@ Das ``@ORM\PrePersist-Event`` wird ausgelöst, wenn das Objekt zum ersten Mal in
     - `jquery`
     - `popper.js`
     - `bs-custom-file-input`
-    
+- `notifier`
