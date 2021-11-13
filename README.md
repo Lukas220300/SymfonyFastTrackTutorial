@@ -45,3 +45,4 @@ Das ``@ORM\PrePersist-Event`` wird ausgelöst, wenn das Objekt zum ersten Mal in
 - `validator`
 - `string`
 - `mime`
+- `security`
